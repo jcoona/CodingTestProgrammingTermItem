@@ -9,18 +9,18 @@ In this coding exercise, you will be updating an existing screen that displays `
 
 ## Requirements:
 
-Display Items should be fetched from the app’s repository class and displayed to the user
+Display Items should be fetched from the app’s repository class and displayed to the user.
 
-While items are being fetched, a loading indicator should replace the text inside the button on screen
+While items are being fetched, a loading indicator should replace the text inside the button on screen.
 
-Display items should be displayed with red text
+Display items should be displayed with red text.
 
-Clicking on Open Dialog should open an Alert Dialog
+Clicking on Open Dialog should open an Alert Dialog.
 
-* Clicking Confirm should reverse the order of the items on screen and re-display them
+* Clicking Confirm should reverse the order of the items on screen and re-display them.
 
-* Clicking Cancel should display a Toast message to the user confirming they canceled the dialog
+* Clicking Cancel should display a Toast message to the user confirming they canceled the dialog.
 
-A Composable Preview should be created for each state the user can experience
+A Composable Preview should be created for each state the user can experience.
 
 Unit Tests should be created for applicable classes (just create the shells, no need to get passing tests)
