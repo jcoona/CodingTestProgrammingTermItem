@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cta_button">Click Me</string>
+    <string name="alert_dialog_title">Alert Dialog</string>
+    <string name="alert_dialog_body">Click either Confirm or Cancel.</string>
+    <string name="alert_dialog_positive_button">Confirm</string>
+    <string name="alert_dialog_negative_button">Cancel</string>
+    <string name="snackbar_message">Alert Dialog has been dismissed.</string>
+
+    <!-- Programming List Items -->
+    <string name="hello_world_left">Hello</string>
+    <string name="hello_world_right">World</string>
+    <string name="foobar_left">Foo</string>
+    <string name="foobar_right">Bar</string>
+    <string name="github_left">Git</string>
+    <string name="github_right">Bub</string>
+    <string name="android_left">iOS</string>
+    <string name="android_right">Swift</string>
+</resources>
